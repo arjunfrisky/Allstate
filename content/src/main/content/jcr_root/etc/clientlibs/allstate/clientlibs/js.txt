@@ -1,2 +1,12 @@
 #base=js
-main.js
+
+app.js
+Components.min.js
+easy-paginate-custom.js
+jquery-1.11.2.min.js
+jquery-ui-1.11.4.min.js
+jquery.cj-swipe.min.js
+jquery.cycle.all.min.js
+PageLayouts.min.js
+ProcessMetrics.min.js
+
